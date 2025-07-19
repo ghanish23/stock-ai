@@ -1,0 +1,9 @@
+streamlit
+yfinance
+pandas
+ta
+requests
+beautifulsoup4
+scikit-learn
+tensorflow
+mplfinance
