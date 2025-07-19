@@ -1,9 +1,9 @@
 streamlit
 yfinance
 pandas
+numpy
+matplotlib
+scikit-learn
 ta
 requests
 beautifulsoup4
-scikit-learn
-tensorflow
-mplfinance
