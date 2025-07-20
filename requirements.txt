@@ -7,3 +7,4 @@ scikit-learn
 ta
 requests
 beautifulsoup4
+mplfinance
